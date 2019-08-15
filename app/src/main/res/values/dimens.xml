@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="text_thirty_five">35sp</dimen>
+    <dimen name="text_fifty">50sp</dimen>
+</resources>
